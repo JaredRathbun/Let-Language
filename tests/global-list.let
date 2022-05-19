@@ -1,0 +1,5 @@
+# Declares a global list and idx variable. #
+global lst, idx := list(3, 5, 7), 4
+
+# Add the head of the list to idx. #
+hd lst + idx

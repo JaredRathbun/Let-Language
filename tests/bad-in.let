@@ -1,0 +1,1 @@
+let x := list (3, 5, 7) in hd lst

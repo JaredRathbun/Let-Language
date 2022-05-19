@@ -1,0 +1,7 @@
+fun test x => 
+    fun add x => 
+        x + 2
+
+    apply add x 
+
+apply test 6

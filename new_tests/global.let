@@ -1,0 +1,3 @@
+global x, y, z := 2, 3, 4
+
+x + y + z

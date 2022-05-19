@@ -1,0 +1,1 @@
+let lst := list(3, 5, 7) in hd lst + hd tl lst
